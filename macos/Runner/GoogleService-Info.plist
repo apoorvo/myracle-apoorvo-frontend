@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>728851528576-vupd7qnvldef4b46e1ppff3cl6662anc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.728851528576-vupd7qnvldef4b46e1ppff3cl6662anc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAgZsNeuqJCMIwf2ypfBnAgw6WYU8mjjKw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>728851528576</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.client</string>
+	<key>PROJECT_ID</key>
+	<string>myracle-apoorvo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myracle-apoorvo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:728851528576:ios:a9ce547b9f122389bc9f65</string>
+</dict>
+</plist>
